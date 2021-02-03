@@ -1,0 +1,2 @@
+# wiria
+Memakai bot hidup
